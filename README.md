@@ -1,5 +1,5 @@
 ## Description
-Demonstation of Stepper along with Bootstrap in ReactJS
+Demonstation of Stepper along with Bootstrap in ReactJS, 
 Live Link [Click Here](https://stepperdemo.netlify.app/)
 
 ### Clone the repo and run the following command to get the Live Demo
